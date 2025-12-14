@@ -82,7 +82,7 @@ hacker-news-posts-analysis/
 ├── analysis.ipynb          # Main Jupyter notebook with complete analysis
 ├── hacker-news.csv         # Dataset file
 ├── README.md               # This file
-└── .gitignore             # Git ignore file
+└── .gitignore              # Git ignore file
 ```
 
 ## Installation
