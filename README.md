@@ -12,7 +12,6 @@ A data analysis project exploring engagement patterns on Hacker News to determin
 - [Usage](#usage)
 - [Analysis Process](#analysis-process)
 - [Results](#results)
-- [Future Improvements](#future-improvements)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
