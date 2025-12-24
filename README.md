@@ -12,7 +12,6 @@ A data analysis project exploring engagement patterns on Hacker News to determin
 - [Usage](#usage)
 - [Analysis Process](#analysis-process)
 - [Results](#results)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -151,10 +150,6 @@ The analysis revealed clear patterns in Hacker News engagement:
 3. **Geographic Considerations**: For European users, late evening posting aligns perfectly with US peak activity hours, providing an advantage for maximizing reach.
 
 4. **Engagement Distribution**: Top-performing hours are spread throughout the day rather than concentrated in a single period, suggesting multiple viable posting windows.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
